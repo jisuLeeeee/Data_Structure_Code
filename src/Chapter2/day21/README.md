@@ -21,7 +21,8 @@ System.out.println("Name: " + members[0].name + ", Number: " + members[0].number
 System.out.println("Name: " + members[1].name + ", Number: " + members[1].number);
 ```
 
-![2-1-2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eb75565b-fb8c-4d73-82b8-1fb61dbc074f/2-1-2.png)
+<img width="346" alt="2-1-2" src="https://user-images.githubusercontent.com/120107671/227704235-ee988d88-d6ab-4b3e-8629-6be1442e44b2.png">
+
 
 - second 객체가 first객체를 그대로 복사 할 경우 하나의 객체를 동시에 참조함
 - 배열의 타입이 프리미티브 타입이면 배열의 원소는 프리미티브 타입이지만 배열 자체는 프리미티브 타입이 아니고, 배열의 타입이 프리미티브 타입이 아니면 배열의 원소 또한 참조변수임
