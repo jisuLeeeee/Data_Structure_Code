@@ -1,4 +1,4 @@
-package Chapter2.day25;
+package Chapter2.day27;
 
 public class Term3 {
     public int coef, exp;
